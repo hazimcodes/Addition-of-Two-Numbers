@@ -1,0 +1,15 @@
+#include <iostream>
+using namespace std;
+int main()
+{
+	int Sum , A , B;
+	cout<<"ENTER FIRST NUMBER : "<<endl;
+	cin>>A;
+	cout<<"ENTER SECOND NUMBER : "<<endl;
+	cin>>B;
+	Sum = A + B;
+	
+	cout<<"ADDITION OF TWO NUMBERS : "<<Sum<<endl;
+	
+	
+}
